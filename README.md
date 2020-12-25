@@ -1,2 +1,5 @@
 # hello-world
-Just a new one
+
+Hi, humans !
+
+Hubot here, I like Node.js, Python, Java, Spring and so on.
